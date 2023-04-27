@@ -1,5 +1,4 @@
-<!--
-    SWITCH:
+SWITCH:
         
         Permite criar blocos condicionais como o If, porém com uma estrutura que avalia uma expressão e testa o resultado contra varios casos, testando os casos correspondentes
         
@@ -31,5 +30,3 @@
                 
                 //...
             }
-
--->
