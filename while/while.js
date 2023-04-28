@@ -6,7 +6,7 @@ while (velocity >= 0) {
     alert("Diminuindo 15 Km/h")
     
     if (velocity === 0){
-        alert ("O parou")
+        alert ("O carro parou")
         break
     }
     
