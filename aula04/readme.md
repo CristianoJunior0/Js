@@ -1,4 +1,4 @@
-<!--
+
     OPERADORES LOGICOS
 
         E (AND)
@@ -22,5 +22,3 @@
             !
                 !true === false
                 !false === true
-
--->

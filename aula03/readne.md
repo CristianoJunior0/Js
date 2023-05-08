@@ -1,4 +1,3 @@
-<!-- 
     == compara somente o valor
     === compara o valor e o tipo da entrada
     != verifica se somente o valor é diferente

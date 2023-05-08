@@ -1,4 +1,3 @@
-<!--
     CONDICIONAIS
 
         IF e ELSE
@@ -43,5 +42,3 @@
             Sintaxe
 
                 const resultado =  condiçao ? resultado_verdadeiro : resultado_falso
-
--->
